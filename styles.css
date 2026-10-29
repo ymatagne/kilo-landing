@@ -75,3 +75,7 @@ section.wrap{padding-top:96px;padding-bottom:96px}@media(max-width:600px){sectio
 .lang a[aria-current]{background:var(--ink);color:var(--g)}
 h1,h2,h3{overflow-wrap:break-word;hyphens:manual}
 @media(max-width:600px){.nav .sticker.sm{display:none}.nav-r{gap:8px}.lang a{min-width:40px}}
+
+.photo.hero-shot{aspect-ratio:4/3}
+.photo.hero-shot .sticker.on-photo{left:auto;right:10px;bottom:10px;transform:scale(.78);transform-origin:right bottom}
+.chead .meta{white-space:nowrap}
